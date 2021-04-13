@@ -13,7 +13,11 @@
 
 [02数据的表示](./video_of_soft_exam/computer_organization/02数据的表示.md)
 
+[03计算机结构](./video_of_soft_exam/computer_organization/03_computer_structure.md)
 
+[04流水线](./video_of_soft_exam/computer_organization/04_pipeline.md)
+
+[05层次化存储结构](./video_of_soft_exam/computer_organization/05层次化的存储结构.md)
 
 # 下午题
 
